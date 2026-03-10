@@ -15,7 +15,7 @@ export default {
     extend: {
       fontFamily: {
         display: ['Lato', 'sans-serif'],
-        body: ['Inter', 'sans-serif'],
+        body: ['Branding', 'sans-serif'],
       },
       colors: {
         border: "hsl(var(--border))",
