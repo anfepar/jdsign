@@ -1,9 +1,9 @@
-import projectFurniture from "@/assets/project-furniture.jpg";
-import projectStand from "@/assets/project-stand.jpg";
-import projectPop from "@/assets/project-pop.jpg";
+import projectFurniture from "@/assets/project-furniture.png";
+import projectStand from "@/assets/project-stand.png";
+import projectPop from "@/assets/project-pop.png";
 import projectBranding from "@/assets/project-branding.jpg";
-import projectProduct from "@/assets/project-product.jpg";
-import projectSpace from "@/assets/project-space.jpg";
+import projectProduct from "@/assets/project-product.png";
+import projectSpace from "@/assets/project-space.png";
 
 export type ProjectCategory = "mobiliario" | "stands" | "pop-retail" | "branding" | "espacios" | "otros";
 
