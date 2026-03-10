@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import { projects, categoryLabels, type ProjectCategory } from "@/data/projects";
 
-const allCategories: (ProjectCategory | "all")[] = ["all", "mobiliario", "stands", "pop-retail", "branding", "otros"];
+const allCategories: (ProjectCategory | "all")[] = ["all", "mobiliario", "stands", "pop-retail", "branding", "espacios", "otros"];
 
 const Projects = () => {
   const [filter, setFilter] = useState<ProjectCategory | "all">("all");
