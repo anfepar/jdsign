@@ -99,7 +99,7 @@ export const projects: Project[] = [
   {
     id: "espacio-premium",
     title: "Espacio Premium",
-    category: "otros",
+    category: "espacios",
     image: projectSpace,
     year: "2023",
     description: "Diseño interior de showroom para marca de moda de lujo. Experiencia inmersiva que conecta producto, espacio y emoción.",
