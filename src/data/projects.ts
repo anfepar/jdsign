@@ -26,6 +26,7 @@ export const categoryLabels: Record<ProjectCategory, string> = {
   stands: "Stands",
   "pop-retail": "POP-Retail",
   branding: "Branding",
+  espacios: "Espacios",
   otros: "Otros",
 };
 
