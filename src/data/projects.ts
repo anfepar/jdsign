@@ -5,7 +5,7 @@ import projectBranding from "@/assets/project-branding.jpg";
 import projectProduct from "@/assets/project-product.jpg";
 import projectSpace from "@/assets/project-space.jpg";
 
-export type ProjectCategory = "mobiliario" | "stands" | "pop-retail" | "branding" | "otros";
+export type ProjectCategory = "mobiliario" | "stands" | "pop-retail" | "branding" | "espacios" | "otros";
 
 export interface Project {
   id: string;
