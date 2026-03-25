@@ -16,7 +16,7 @@ const Navbar = () => {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-md border-b border-border/50">
       <div className="flex items-center justify-between px-6 md:px-12 lg:px-24 h-16">
         <Link to="/" className="font-display text-lg font-semibold tracking-tight text-foreground">
-          STUDIO<span className="text-accent">.</span>
+          JUL-STUDIO
         </Link>
 
         {/* Desktop */}
